@@ -1,0 +1,10 @@
+[
+	{ "keys": ["ctrl+k", "ctrl+d"], "command": "indentxml" },
+	{ "keys": ["ctrl+alt+/"], "command": "alignment" },
+	{ "keys": ["ctrl+alt+,"], "command": "prefixr" },
+	{ "keys": ["ctrl+alt+k"], "command": "sublimelinter", "args": {"action": "lint"} },
+    { "keys": ["ctrl+alt+j"], "command": "find_next_lint_error" },
+    { "keys": ["ctrl+alt+shift+e"], "command": "find_previous_lint_error" },
+    { "keys": ["f12"], "command": "reindent"}
+]
+

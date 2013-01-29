@@ -1,0 +1,15 @@
+{
+	"extensions":
+	[
+		"xml",
+		"xsd",
+		"xslt",
+		"svg",
+		"config",
+		"wxs",
+		"resx",
+		"tmCommand",
+		"csproj",
+		"proj"
+	]
+}

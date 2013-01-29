@@ -1,0 +1,19 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+		"pyparadigm-SublimeTagmatcher-b0127a3",
+		"HTML5"
+	],
+	"ignored_words":
+	[
+		"R2",
+		"R2",
+		"R2",
+		"R2",
+		"changesets",
+		"limitative"
+	],
+	"overlay_scroll_bars": "enabled",
+	"theme": "Soda Light.sublime-theme"
+}

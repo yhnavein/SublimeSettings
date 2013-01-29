@@ -1,0 +1,7 @@
+{
+	"ignore_errors":
+    [
+    	"Expected '*' at column *, not column *"
+        // "Expected an identifier and instead saw 'undefined' \(a reserved word\)"
+    ]
+}
