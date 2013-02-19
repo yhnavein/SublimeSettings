@@ -30,55 +30,19 @@
 	],
 	"match_brackets_angle": false,
 	"overlay_scroll_bars": "enabled",
-	"stupid_indent":
-	[
-		{
-			"patterns":
-			[
-				"Gemfile",
-				"*.rb",
-				"*.erb",
-				"*.scss",
-				"*.coffee"
-			],
-			"tab_size": 2,
-			"translate_tabs_to_spaces": true
-		},
-		{
-			"patterns":
-			[
-				"*.html",
-				"*.js",
-				"*.css",
-				"*.less",
-				"*.cshtml",
-				"*.aspx",
-				"*.ascx"
-			],
-			"tab_size": 2,
-			"translate_tabs_to_spaces": true
-		},
-		{
-			"patterns":
-			[
-				"*.php",
-				"*.cs"
-			],
-			"tab_size": 4,
-			"translate_tabs_to_spaces": false
-		},
-		{
-			"patterns":
-			[
-				"*.md",
-				"*.markdown"
-			],
-			"tab_size": 4,
-			"translate_tabs_to_spaces": true
-		}
-	],
 	"tab_size": 2,
 	"theme": "Nexus.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"file_exclude_patterns":
+  [
+    ".DS_Store"
+  ],
+  "folder_exclude_patterns":
+  [
+    ".git",
+    ".hg",
+    "log",
+    "tmp"
+  ]
 }
