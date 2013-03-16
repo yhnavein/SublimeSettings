@@ -3,6 +3,17 @@
 	"caret_style": "phase",
 	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
+	"file_exclude_patterns":
+	[
+		".DS_Store"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		".hg",
+		"log",
+		"tmp"
+	],
 	"font_face": "Ubuntu Mono",
 	"font_size": 12,
 	"highlight_line": true,
@@ -33,16 +44,5 @@
 	"tab_size": 2,
 	"theme": "Nexus.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"file_exclude_patterns":
-  [
-    ".DS_Store"
-  ],
-  "folder_exclude_patterns":
-  [
-    ".git",
-    ".hg",
-    "log",
-    "tmp"
-  ]
+	"trim_trailing_white_space_on_save": true
 }
