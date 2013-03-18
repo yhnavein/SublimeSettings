@@ -20,9 +20,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"All Autocomplete",
-		"HTML5",
+		"Nodejs",
 		"pyparadigm-SublimeTagmatcher-b0127a3"
 	],
 	"ignored_words":
