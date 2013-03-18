@@ -10,6 +10,7 @@
 		"resx",
 		"tmCommand",
 		"csproj",
-		"proj"
+		"proj",
+		"xaml"
 	]
 }
