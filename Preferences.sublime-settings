@@ -20,6 +20,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"TernJS",
 		"Nodejs",
 		"pyparadigm-SublimeTagmatcher-b0127a3"
 	],
@@ -37,6 +38,10 @@
 		"screen",
 		"screenshot"
 	],
+	"linecomments_alt_enter": true,
+	"linecomments_ctrl_enter": true,
+	"linecomments_shift_enter": true,
+	"linecomments_super_enter": true,
 	"match_brackets_angle": true,
 	"overlay_scroll_bars": "enabled",
 	"tab_size": 2,
