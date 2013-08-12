@@ -20,8 +20,8 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"TernJS",
 		"Nodejs",
+		"TernJS",
 		"pyparadigm-SublimeTagmatcher-b0127a3"
 	],
 	"ignored_words":
@@ -44,8 +44,9 @@
 	"linecomments_super_enter": true,
 	"match_brackets_angle": true,
 	"overlay_scroll_bars": "enabled",
+	"soda_folder_icons": true,
 	"tab_size": 2,
-	"theme": "Nexus.sublime-theme",
+	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
