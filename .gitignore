@@ -12,6 +12,7 @@ Package Control.cache/
 .DS_Store
 .AppleDouble
 .LSOverride
+*.cache
 
 # Thumbnails
 ._*
