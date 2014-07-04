@@ -20,10 +20,10 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Markdown",
 		"TernJS",
 		"Nodejs",
-		"pyparadigm-SublimeTagmatcher-b0127a3",
-		"Markdown"
+		"pyparadigm-SublimeTagmatcher-b0127a3"
 	],
 	"ignored_words":
 	[

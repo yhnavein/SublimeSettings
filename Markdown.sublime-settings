@@ -1,7 +1,6 @@
 {
 	"extensions":
 	[
-		"mdown",
-		"txt"
+		"mdown"
 	]
 }
