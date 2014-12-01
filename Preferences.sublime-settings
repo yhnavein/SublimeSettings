@@ -5,7 +5,7 @@
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"file_exclude_patterns":
 	[
-		".DS_Store"
+		".DS_Store", "*.exe", "*.dll", "*.obj", "*.class"
 	],
 	"folder_exclude_patterns":
 	[
@@ -20,11 +20,10 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Markdown",
 		"Nodejs",
-		"TernJS",
 		"Dart",
-		"pyparadigm-SublimeTagmatcher-b0127a3"
+		"TernJS",
+		"Markdown"
 	],
 	"ignored_words":
 	[
@@ -48,7 +47,7 @@
 	"overlay_scroll_bars": "enabled",
 	"soda_folder_icons": true,
 	"tab_size": 2,
-	"theme": "Soda Light.sublime-theme",
+	"theme": "Cobalt2.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true
 }
