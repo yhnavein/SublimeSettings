@@ -6,7 +6,6 @@
 # Unwanted files to track
 BufferScroll.sublime-settings
 GoSublime/
-Package Control.sublime-settings
 *.last-run
 Package Control.cache/
 .DS_Store

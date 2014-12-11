@@ -1,0 +1,32 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"AngularJS",
+		"AngularJS Snippets",
+		"Base Encoder",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Comments Aware Enter",
+		"Dart",
+		"DashDoc",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"GitGutter",
+		"HTML5",
+		"Increment Selection",
+		"Jade",
+		"LESS",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Tag",
+		"Theme - Cobalt2",
+		"Theme - Flatland",
+		"WordHighlight"
+	]
+}
