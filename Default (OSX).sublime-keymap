@@ -1,2 +1,3 @@
 [
+	{ "keys": ["super+ctrl+/"], "command": "alignment" }
 ]

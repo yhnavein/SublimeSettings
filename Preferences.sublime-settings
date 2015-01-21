@@ -24,9 +24,10 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"TernJS",
 		"Vintage",
-		"Nodejs"
+		"Nodejs",
+		"Markdown",
+		"TernJS"
 	],
 	"ignored_words":
 	[

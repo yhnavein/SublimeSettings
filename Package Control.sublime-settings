@@ -1,4 +1,12 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"Alignment",
@@ -14,16 +22,20 @@
 		"Emmet",
 		"Emmet Css Snippets",
 		"GitGutter",
+		"Gitignore",
 		"HTML5",
 		"Increment Selection",
 		"Jade",
 		"LESS",
 		"Markdown Preview",
 		"MarkdownEditing",
+		"Package Control",
+		"PowerShell",
 		"Pretty JSON",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
+		"SVG-Snippets",
 		"Tag",
 		"Theme - Cobalt2",
 		"Theme - Flatland",
