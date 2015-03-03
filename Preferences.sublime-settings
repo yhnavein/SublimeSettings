@@ -24,10 +24,10 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Nodejs",
 		"Markdown",
-		"TernJS"
+		"TernJS",
+		"Nodejs",
+		"Vintage"
 	],
 	"ignored_words":
 	[
@@ -42,6 +42,11 @@
 		"programy",
 		"screen",
 		"screenshot"
+	],
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"/Users/yhnavein/puredev/KHplist/dist*"
 	],
 	"linecomments_alt_enter": true,
 	"linecomments_ctrl_enter": true,

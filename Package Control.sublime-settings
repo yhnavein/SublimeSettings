@@ -2,21 +2,16 @@
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
-	],
 	"installed_packages":
 	[
 		"Alignment",
 		"AngularJS",
 		"AngularJS Snippets",
+		"ApacheConf.tmLanguage",
 		"Base Encoder",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"Comments Aware Enter",
-		"Dart",
 		"DashDoc",
 		"DocBlockr",
 		"Emmet",
@@ -33,6 +28,8 @@
 		"PowerShell",
 		"Pretty JSON",
 		"SideBarEnhancements",
+		"SqlBeautifier",
+		"SSH Config",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"SVG-Snippets",
