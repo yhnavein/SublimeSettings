@@ -31,11 +31,13 @@
 		"SqlBeautifier",
 		"SSH Config",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-jshint",
 		"SVG-Snippets",
 		"Tag",
 		"Theme - Cobalt2",
 		"Theme - Flatland",
+		"TWiki",
 		"WordHighlight"
 	]
 }
