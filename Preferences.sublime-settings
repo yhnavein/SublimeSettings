@@ -19,15 +19,15 @@
 		"tmp"
 	],
 	"font_face": "Ubuntu Mono",
-	"font_size": 16,
+	"font_size": 15,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Vintage",
 		"Nodejs",
-		"TernJS",
 		"Markdown",
-		"Vintage"
+		"TernJS"
 	],
 	"ignored_words":
 	[
