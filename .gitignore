@@ -12,7 +12,7 @@ Package Control.cache/
 .AppleDouble
 .LSOverride
 *.cache
-
+npm-debug.log
 # Thumbnails
 ._*
 
@@ -45,3 +45,4 @@ $RECYCLE.BIN/
 
 #Ignoring configuration files
 .htaccess
+Color Highlighter/icons

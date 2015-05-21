@@ -25,9 +25,9 @@
 	"ignored_packages":
 	[
 		"Markdown",
-		"TernJS",
 		"Vintage",
-		"Nodejs"
+		"Nodejs",
+		"TernJS"
 	],
 	"ignored_words":
 	[
