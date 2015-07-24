@@ -1,7 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/Monokai Bright (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai JSON+ (SL).tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"file_exclude_patterns":
 	[
@@ -24,10 +24,10 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Nodejs",
 		"TernJS",
 		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Nodejs"
 	],
 	"ignored_words":
 	[
@@ -45,9 +45,10 @@
 	],
 	"index_exclude_patterns":
 	[
-		"*.log",
+		"/home/yhnavein/puredev/KHplist/dist*",
 		"/Users/yhnavein/puredev/KHplist/dist*",
-		".idea*"
+		".idea*",
+		"*.log"
 	],
 	"linecomments_alt_enter": true,
 	"linecomments_ctrl_enter": true,

@@ -7,14 +7,20 @@
         "gutter_theme_excludes": [],
         "lint_mode": "load/save",
         "linters": {
-            "jshint": {
+            "eslint": {
                 "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "jshint": {
+                "@disable": true,
                 "args": [],
                 "excludes": []
             }
         },
         "mark_style": "outline",
         "no_column_highlights_line": false,
+        "passive_warnings": false,
         "paths": {
             "linux": [],
             "osx": [],
@@ -34,6 +40,7 @@
             "html (rails)": "html",
             "html 5": "html",
             "php": "html",
+            "javascript (babel)": "javascript",
             "python django": "python"
         },
         "warning_color": "DDB700",
