@@ -1,9 +1,6 @@
 {
 	"bootstrapped": true,
-	"in_process_packages":
-	[
-		"DashDoc"
-	],
+	"in_process_packages":[],
 	"installed_packages":
 	[
 		"Alignment",
@@ -16,7 +13,6 @@
 		"Color Highlighter",
 		"ColorPicker",
 		"Comments Aware Enter",
-		"DashDoc",
 		"DocBlockr",
 		"EJS",
 		"Emmet",
