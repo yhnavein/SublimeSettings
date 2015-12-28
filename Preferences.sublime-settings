@@ -1,7 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/Monokai JSON+ (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"file_exclude_patterns":
 	[
@@ -24,10 +24,11 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"TernJS",
+		"DashDoc",
 		"Markdown",
-		"Vintage",
-		"Nodejs"
+		"Nodejs",
+		"TernJS",
+		"Vintage"
 	],
 	"ignored_words":
 	[
@@ -60,5 +61,6 @@
 	"tab_size": 2,
 	"theme": "Cobalt2.sublime-theme",
 	"translate_tabs_to_spaces": false,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"typescript_plugin_tsc_version": "1.7.3"
 }

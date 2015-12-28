@@ -27,5 +27,7 @@
   // Add --patience switch to git diff command. See
   // http://bramcohen.livejournal.com/73318.html for
   // an example of why you might need this.
-  "patience": true
+  "patience": true,
+
+  "show_in_minimap": false
 }
