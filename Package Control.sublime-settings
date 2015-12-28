@@ -1,6 +1,8 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"DashDoc"
 	],
 	"installed_packages":
 	[
@@ -16,6 +18,7 @@
 		"Comments Aware Enter",
 		"DashDoc",
 		"DocBlockr",
+		"EJS",
 		"Emmet",
 		"Emmet Css Snippets",
 		"GitGutter",
@@ -23,6 +26,7 @@
 		"Hasher",
 		"HTML5",
 		"Increment Selection",
+		"INI",
 		"Jade",
 		"LESS",
 		"LoremGibson",
