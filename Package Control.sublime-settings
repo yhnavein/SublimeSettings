@@ -1,11 +1,14 @@
 {
 	"bootstrapped": true,
-	"in_process_packages":[],
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Alignment",
 		"AngularJS",
 		"AngularJS Snippets",
+		"AngularZen",
 		"ApacheConf.tmLanguage",
 		"AutoFileName",
 		"Base Encoder",
@@ -33,6 +36,7 @@
 		"PowerShell",
 		"Pretty JSON",
 		"Random Everything",
+		"SCSS",
 		"SideBarEnhancements",
 		"SqlBeautifier",
 		"SSH Config",

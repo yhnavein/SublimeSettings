@@ -17,6 +17,7 @@
 		".hg",
 		"log",
 		"tmp",
+		"node_modules",
 		".idea"
 	],
 	"font_face": "Ubuntu Mono",
@@ -47,8 +48,8 @@
 	],
 	"index_exclude_patterns":
 	[
-		"/home/yhnavein/puredev/KHplist/dist*",
-		"/Users/yhnavein/puredev/KHplist/dist*",
+		"node_modules",
+		"bower_components",
 		".idea*",
 		"*.log"
 	],
