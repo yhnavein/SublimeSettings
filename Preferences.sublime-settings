@@ -68,7 +68,15 @@
 		"node_modules",
 		"bower_components",
 		".idea*",
-		"*.log"
+		"bin",
+		"obj",
+		"Images",
+		"images",
+		"aspnet_client",
+		"Logs",
+		"*.log",
+		"*.exe",
+		"*.dll"
 	],
 	"linecomments_alt_enter": true,
 	"linecomments_ctrl_enter": true,
