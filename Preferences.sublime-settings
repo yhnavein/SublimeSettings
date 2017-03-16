@@ -35,7 +35,11 @@
 		"log",
 		"tmp",
 		"node_modules",
-		".idea"
+		".idea",
+		"bin",
+		"obj",
+		".vs",
+		"packages"
 	],
 	"font_face": "Ubuntu Mono",
 	"font_size": 14,
