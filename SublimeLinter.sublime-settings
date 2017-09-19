@@ -39,10 +39,14 @@
             "html (django)": "html",
             "html (rails)": "html",
             "html 5": "html",
-            "php": "html",
             "javascript (babel)": "javascript",
+            "php": "html",
             "python django": "python"
         },
+        "tooltip_fontsize": "1rem",
+        "tooltip_theme": "Packages/SublimeLinter/tooltip-themes/Default/Default.tooltip-theme",
+        "tooltip_theme_excludes": [],
+        "tooltips": false,
         "warning_color": "DDB700",
         "wrap_find": true
     }

@@ -7,7 +7,6 @@
 BufferScroll.sublime-settings
 GoSublime/
 *.last-run
-Package Control.cache/
 .DS_Store
 .AppleDouble
 .LSOverride
@@ -45,5 +44,10 @@ $RECYCLE.BIN/
 
 #Ignoring configuration files
 .htaccess
-Color Highlighter/icons
-Color Highlighter/ColorPicker/ColorPicker_win.exe
+Color Highlighter/
+Package Control.cache/
+Package Control.last-run
+Package Control.merged-ca-bundle
+Package Control.system-ca-bundle
+Package Control.user-ca-bundle
+SublimeLinter/
