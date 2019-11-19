@@ -18,7 +18,7 @@
 	],
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/ayu/ayu-dark.sublime-color-scheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"file_exclude_patterns":
 	[
@@ -45,9 +45,6 @@
 	"font_size": 15,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-	],
 	"ignored_words":
 	[
 		"R2",
@@ -85,7 +82,7 @@
 	"overlay_scroll_bars": "enabled",
 	"soda_folder_icons": true,
 	"tab_size": 2,
-	"theme": "Adaptive.sublime-theme",
+	"theme": "ayu-mirage.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": false
